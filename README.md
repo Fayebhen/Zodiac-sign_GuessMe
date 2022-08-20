@@ -8,11 +8,11 @@ Please download the file zodiac-character.sh to see the script in action.
 
 
 ### Group 3 Team Members:
-- Faye Beerom-Henry (Team Leader)
-- Brayan Molina (Team Supervisor)
-- Sammy Cespedes (Team Documenter)
-- Kerri Smith (Team Presenter)
-- Junior Cornibert (Team Member)
+- Faye (Team Leader)
+- Brayan (Team Supervisor)
+- Sammy  (Team Documenter)
+- Kerri  (Team Presenter)
+- Junior  (Team Member)
 
 
 ![Zodiac](https://rlv.zcache.com/svc/view?pid=217530535681713012&rvtype=content&max_dim=318)
